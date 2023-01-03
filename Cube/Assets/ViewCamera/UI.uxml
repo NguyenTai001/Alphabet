@@ -1,0 +1,7 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:VisualElement name="VisualElement" style="justify-content: space-around; flex-grow: 1; flex-direction: column;">
+        <ui:VisualElement style="justify-content: space-around; flex-grow: 0; align-items: center; height: 300px; flex-direction: row; flex-wrap: nowrap;">
+            <ui:Button text="Button" display-tooltip-when-elided="true" style="justify-content: center; height: 87px; width: 236px; align-items: auto; flex-direction: row; flex-wrap: nowrap; flex-grow: 0; flex-shrink: 0; flex-basis: auto; font-size: 30px; -unity-font-style: bold; white-space: nowrap;" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

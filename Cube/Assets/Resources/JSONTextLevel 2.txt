@@ -1,0 +1,94 @@
+	
+
+	{
+	"Level":[
+		{
+			"name":"Enemy (1)",
+			"poin":800,
+			"scale":0.7
+		},
+		{
+			"name":"Enemy (2)",
+			"poin":400,
+			"scale":0.65
+		},
+		{
+			"name":"Enemy (3)",
+			"poin":100,
+			"scale":0.55
+		},
+		{
+			"name":"Enemy (4)",
+			"poin":200,
+			"scale":0.6
+		},
+		{
+			"name":"Enemy (5)",
+			"poin":20,
+			"scale":0.4
+		},
+		{
+			"name":"Enemy (6)",
+			"poin":30,
+			"scale":0.45
+		},
+		{
+			"name":"Enemy (7)",
+			"poin":50,
+			"scale":0.5
+		},
+		{
+			"name":"Enemy (8)",
+			"poin":1600,
+			"scale":0.75
+		},
+		{
+			"name":"Enemy (9)",
+			"poin":3200,
+			"scale":0.8
+		},
+		{
+			"name":"Enemy (10)",
+			"poin":4800,
+			"scale":0.85
+		},
+		{
+			"name":"Enemy (11)",
+			"poin":9600,
+			"scale":0.9
+		},
+		{
+			"name":"Enemy (12)",
+			"poin":19200,
+			"scale":0.95
+		},
+		{
+			"name":"Enemy (13)",
+			"poin":25000,
+			"scale":1
+		},
+		{
+			"name":"Enemy (14)",
+			"poin":40000,
+			"scale":1.05
+		},
+		{
+			"name":"Enemy (15)",
+			"poin":80000,
+			"scale":1.1
+		},
+		{
+			"name":"Enemy (16)",
+			"poin":150000,
+			"scale":1.2
+		}
+
+	]
+	}
+	
+		
+	
+
+	
+		
+		
